@@ -106,5 +106,3 @@ This project helps beginners understand:
 **Swathi Shettigar**
 BCA Student
 
-
-Tell me which one you want 😄
